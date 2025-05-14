@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Yejun Ju, a CS student who is interested in Web Development, DevOPs, Programing Solving, and Computer Vision.
+I'm Yejun Ju, a CS student who is interested in Web Development, DevOPs, Problem Solving, and Computer Vision.
 
 ### History
 - School of Computing @ KAIST (2020-)
